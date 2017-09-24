@@ -32,7 +32,7 @@ Once a new WPF project is created, you will need to add references to the assemb
 
 Next, you need to add RadCarousel to your application. You may set some of its basic properties like **Background** or **Height**. Bear in mind that you will need to define the **telerik** namespace. Furthermore, if you want to access it in the code-behind, you may declare its **Name** attribute: 
 
-#### __[XAML] Example 1: Adding RadGridView to application__
+#### __[XAML] Example 1: Adding RadCarousel to application__
 
 	{{region xaml-carousel-getting-started_0}}
 	<UserControl xmlns:telerik="http://schemas.telerik.com/2008/xaml/presentation">
